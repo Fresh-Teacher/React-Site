@@ -1,8 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/[[...route_name]]": "pages/[[...route_name]].js",
   "/api/speakers/[id]": "pages/api/speakers/[id].js",
-  "/api/speakers": "pages/api/speakers.js"
+  "/api/speakers": "pages/api/speakers.js",
+  "/demoUseDeferredValue": "pages/demoUseDeferredValue.html",
+  "/demoReducer": "pages/demoReducer.html",
+  "/demoUseTransition": "pages/demoUseTransition.html",
+  "/[[...route_name]]": "pages/[[...route_name]].js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }
